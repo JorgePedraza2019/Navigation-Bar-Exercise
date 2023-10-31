@@ -1,4 +1,4 @@
-# Project title: Tic Tac Toe Game
+# Project title: Navigation Bar Exercise
 
 ## Description of Project:
 This project allows you to use the bootstrap Navigation Bar.
